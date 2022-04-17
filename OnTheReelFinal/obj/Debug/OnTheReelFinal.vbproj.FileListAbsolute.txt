@@ -1,0 +1,2 @@
+C:\Users\ismae\AppData\Local\Temporary Projects\OnTheReelFinal\bin\Debug\OnTheReelFinal.exe.config
+C:\Users\ismae\Documents\Visual Studio 2015\Projects\OnTheReelFinal\OnTheReelFinal\bin\Debug\OnTheReelFinal.exe.config
